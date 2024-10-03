@@ -10,7 +10,7 @@ class CategoryModal {
 
 List<CategoryModal> categoryList = [
   CategoryModal(
-      bg: "https://static.vecteezy.com/system/resources/thumbnails/022/515/438/small_2x/ai-generative3d-texture-colorful-abstract-background-for-desktop-wallpaper-image-free-photo.jpg",
+      bg: "https://w0.peakpx.com/wallpaper/1002/542/HD-wallpaper-compass-travel-hand-focus.jpg",
       tital: "Backgrounds"),
   CategoryModal(
       bg: "https://w0.peakpx.com/wallpaper/1002/542/HD-wallpaper-compass-travel-hand-focus.jpg",
@@ -59,6 +59,6 @@ List<CategoryModal> categoryList = [
   //sdkf
   ),*/
   CategoryModal(
-      bg: "https://wallpaper.forfun.com/fetch/15/1586c70b3c9cd706c78d791eb1b7511a.jpeg",
+      bg: "https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg",
       tital: "People"),
 ];

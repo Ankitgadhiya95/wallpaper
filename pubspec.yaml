@@ -47,6 +47,7 @@ dependencies:
   flutter_file_dialog: ^3.0.2
   url_launcher: ^6.3.0
   flutter_launcher_icons: ^0.13.1
+#  async_wallpaper: ^2.1.0
 #  async_wallpaper: ^2.0.1
 
 dev_dependencies:
